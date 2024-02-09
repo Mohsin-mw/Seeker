@@ -37,7 +37,7 @@ Begin your journey with Superio through the following steps:
 Contributions to Superio are welcomed! Please follow the contribution guidelines outlined in the project's repository to submit pull requests and improve the platform.
 
 ## 📄 License
-Superio operates under the [MIT License](link-to-license), granting users the freedom to use, modify, and distribute the software. See the LICENSE file for more details.
+Superio operates under the [MIT License](https://github.com/Mohsin-mw/Superio), granting users the freedom to use, modify, and distribute the software. See the LICENSE file for more details.
 
 ## 📧 Contact
 For inquiries, support, or collaboration opportunities, please contact [null.mmw@gmail.com](mailto:null.mmw@gmail.com).
