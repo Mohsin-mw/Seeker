@@ -26,7 +26,7 @@ Introducing Superio – a sophisticated job portal and job board crafted meticul
 
 ## 🌟 Getting Started
 Begin your journey with Superio through the following steps:
-1. Clone the repository: `git clone https://github.com/your-username/Superio.git`
+1. Clone the repository: `https://github.com/Mohsin-mw/Superio`
 2. Install dependencies for both frontend and backend.
 3. Configure database settings.
 4. Run migrations and seeders to populate initial data.
