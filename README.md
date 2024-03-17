@@ -1,9 +1,8 @@
 # Superio - Job Portal & Job Board
 ![image](https://github.com/Mohsin-mw/Superio/assets/122507740/8cc1db7e-cbdb-47a7-a378-4eff776fc844)
 
-
 ## Overview
-Introducing Superio – a sophisticated job portal and job board crafted meticulously using Laravel and React. This innovative platform revolutionizes the job search and recruitment process, providing both job seekers and employers with intuitive features and seamless functionality.
+Introducing Superio – a sophisticated job portal and job board crafted meticulously using Django and Next.js. This innovative platform revolutionizes the job search and recruitment process, providing both job seekers and employers with intuitive features and seamless functionality.
 
 ## 🚀 Key Features
 - **User-friendly Interface:** Navigate effortlessly through the platform's intuitive interface tailored for both job seekers and employers.
@@ -25,7 +24,7 @@ Introducing Superio – a sophisticated job portal and job board crafted meticul
 
 ## 🌟 Getting Started
 Begin your journey with Superio through the following steps:
-1. Clone the repository: `https://github.com/Mohsin-mw/Superio`
+1. Clone the repository: `https://github.com/WeMasterCoding/Seeker`
 2. Install dependencies for both frontend and backend.
 3. Configure database settings.
 4. Run migrations and seeders to populate initial data.
@@ -36,7 +35,7 @@ Begin your journey with Superio through the following steps:
 Contributions to Superio are welcomed! Please follow the contribution guidelines outlined in the project's repository to submit pull requests and improve the platform.
 
 ## 📄 License
-Superio operates under the [MIT License](https://github.com/Mohsin-mw/Superio/blob/main/LICENSE.txt), granting users the freedom to use, modify, and distribute the software. See the LICENSE file for more details.
+Superio operates under the [MIT License](https://github.com/WeMasterCoding/Seeker/blob/main/LICENSE.txt), granting users the freedom to use, modify, and distribute the software. See the LICENSE file for more details.
 
 ## 📧 Contact
-For inquiries, support, or collaboration opportunities, please contact [null.mmw@gmail.com](mailto:null.mmw@gmail.com).
+For inquiries, support, or collaboration opportunities, please contact [webmastercoding@gmail.com](mailto:webmastercoding@gmail.com). You can also join our [Discord server](https://discord.gg/CrtxaaB2Mp) for real-time discussions and updates.
