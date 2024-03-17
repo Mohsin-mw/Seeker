@@ -17,12 +17,11 @@ Introducing Superio – a sophisticated job portal and job board crafted meticul
 - **Responsive Design:** Enjoy optimal performance across various devices and screen sizes with Superio's responsive design.
 
 ## 🛠️ Technologies Used
-- **Backend:** Laravel
-- **Frontend:** React
-- **Database:** MySQL
-- **Authentication:** Laravel Passport
-- **APIs:** RESTful API for seamless communication
-- **Deployment:** Docker, AWS, or similar cloud infrastructure
+- **Backend:** Django
+- **Frontend:** Next.js (React)
+- **Database:** PostgreSQL
+- **Authentication:** Django REST Framework authentication
+- **APIs:** RESTful API for seamless communication between frontend and backend
 
 ## 🌟 Getting Started
 Begin your journey with Superio through the following steps:
